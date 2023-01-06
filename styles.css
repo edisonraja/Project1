@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.default-row-spacer {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.default-list-spacer {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
